@@ -1,0 +1,33 @@
+.bg-color-icon{
+    background-color: rgb(187, 235, 187);
+}
+
+.border-bottom{
+    border-bottom: rgb(206, 70, 97);
+}
+
+.l:hover{
+    background: #794bf7;
+    font-size: 20px;
+}
+
+.bg-clr{
+    background-color: #cac2bc;
+}
+
+.hv:hover{
+    color: #1496c2;
+    font-size: 23px;
+}
+
+.card{
+    transition: 0.3s;
+}
+
+.card:hover{
+    transform: scale(.95)
+}
+
+.hv{
+    transition: 0.3s;
+}
